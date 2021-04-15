@@ -1,7 +1,6 @@
-# the_witcher - yчебный проект Glo Academy 
-### Выполнила проект: Алёна
+# the_witcher - Glo Academy project
 
-## Технологии:
+##  Technologies:
 #### - HTML
 #### - CSS 
 #### - jQuery
